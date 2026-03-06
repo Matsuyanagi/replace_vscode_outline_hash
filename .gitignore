@@ -1,0 +1,8 @@
+.vscode/*
+*.code-workspace
+
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp

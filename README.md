@@ -20,6 +20,11 @@ My Heading
     Subsection
 ```
 
+![outline with hash](images/image.png)
+
+![outline without hash](images/image_after.png)
+
+
 ## Requirements
 
 - Windows
@@ -28,7 +33,7 @@ My Heading
 
 ## Usage
 
-> **⚠️ Run as Administrator**  
+> **⚠️ Run as Administrator**
 > Writing to VSCode's installation directory requires elevated privileges.
 
 1. Open PowerShell **as Administrator**.
